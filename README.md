@@ -19,6 +19,7 @@ Things to turn in: <br>
 <b>GitHub:</b> https://github.com/dljimenez2324/MiniChallenge_1_Endpoint <br>
 
 
-Peer Reviewed by _____________ <br>
-Comments:  <br> <br>
+Peer Reviewed by Jerie See Villanueva<br>
+Comments:  <br> This is a simple challenge. As being David, there's no such thing as basic. He always try to level up his code by adding the array 
+which is pretty interesteing and i've learned from his code by peer reviewing it.<br>
 
